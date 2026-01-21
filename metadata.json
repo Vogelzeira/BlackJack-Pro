@@ -1,0 +1,5 @@
+{
+  "name": "Blackjack Card Counting Trainer",
+  "description": "An advanced educational tool to master the art of card counting in Blackjack. This simulator provides real-time feedback, detailed statistical analysis, and AI-powered strategy explanations to help users learn and practice counting systems like Hi-Lo, KO, and Omega II.",
+  "requestFramePermissions": []
+}
